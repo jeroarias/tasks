@@ -1,0 +1,35 @@
+
+.smbhomework{
+    width: 30%;
+    height: 4rem;
+    font-size: 20px;
+    border-color: white;
+    border-radius: 1rem;
+    background-color: rgb(53, 53, 53);
+    color:  gray;
+    margin: 1rem;
+    padding:  0 0 0 20px;
+}
+
+.butthomework{
+    width: 15%;
+    height: 4rem;
+    font-size: 20px;
+    border: none;
+    border-radius: 1rem;
+    background-color: rgba(10, 10, 10, 0.396);
+    margin: 1rem;
+}
+
+.butthomework:hover{
+    background-color: orangered;
+    transition: 1.2s;
+    transform: scale(1.2);
+}
+
+.linespace{
+    width: 90%;
+    height: 3px;
+    background-color: white;
+    border-radius: 10px;
+}
