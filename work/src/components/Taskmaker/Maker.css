@@ -5,7 +5,7 @@
     font-size: 20px;
     border-color: white;
     border-radius: 1rem;
-    background-color: rgb(53, 53, 53);
+    background-color: #353535;
     color:  gray;
     margin: 1rem;
     padding:  0 0 0 20px;
@@ -29,7 +29,8 @@
 
 .linespace{
     width: 90%;
-    height: 3px;
-    background-color: white;
+    height: 6px;
+    background :linear-gradient(70deg, green,orange,red);
+    border: none;
     border-radius: 10px;
 }
