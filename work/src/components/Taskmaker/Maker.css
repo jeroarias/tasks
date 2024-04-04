@@ -34,3 +34,19 @@
     border: none;
     border-radius: 10px;
 }
+
+.reportmsj{
+    font-size: 2rem;
+}
+.filter{
+    display: flex;
+    justify-content: left;
+}
+
+#state{
+    margin: 0rem 2rem 1rem 8rem;
+    padding: 1rem;
+    font-size: 2rem;
+    border: none;
+    border-radius: 10px;
+}
