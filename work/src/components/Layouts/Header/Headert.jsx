@@ -1,14 +1,11 @@
-import React from 'react'
-import { Maker } from '../../Taskmaker/Maker'
-import './Headert.css'
+import React from "react";
+import { TaskMaker } from "../../Taskmaker/TaskMaker";
+import "./Headert.css";
 
-
-export const SetWork = () =>
-{
-    return(
-        <>
-        <Maker/>
-        </>
-    )
-
-}
+export const SetWork = () => {
+  return (
+    <>
+      <TaskMaker />
+    </>
+  );
+};
